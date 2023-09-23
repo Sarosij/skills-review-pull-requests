@@ -38,7 +38,7 @@ Now that you have explored the different ways you can review a pull request it i
 1. Edit the suggestion.
 1. Click **Add a single comment**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+ok
 <footer>
 
 <!--
